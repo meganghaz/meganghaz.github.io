@@ -1,0 +1,28 @@
+h1 {
+  color:pink;
+  font-family:fantasy;
+  background-color: lightyellow;
+  padding: 80px;
+}
+h3 {
+  color:pink;
+  font-family: cursive;
+  background-color:lightyellow;
+  margin-left: 50px;
+}
+h6 {
+  color:pink;
+  font-family:cursive;
+  background-color:lightyellow;
+  margin-left: 100px;
+}
+p {
+  color:darkgreen;
+
+}
+img {
+  border: 20px solid pink;
+  width: 75%;
+  height: 75%;
+  margin-left: 75px;
+}
